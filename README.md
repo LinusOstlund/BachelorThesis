@@ -1,8 +1,11 @@
-### Bachelor thesis
+### It Is Never Too Early to Learn About Code Quality
+
+#### Analyzing code quality of first-year programming students and the difference between TA groups
+
 
 **Authors:** Niklas Wicklund & Linus Östlund
 
-#### Description
+##### Description
 
 This repository contains both python scripts and notebooks used to gather and analyze the data used for our bachelor thesis. `analyzing.ipynb` generates figures and tables used in the thesis and is able to run and works from the `student-data.csv` file. 
 
