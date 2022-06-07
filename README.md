@@ -2,7 +2,7 @@
 
 #### Analyzing code quality of first-year programming students and the difference between TA groups
 
-Niklas Wicklund and Linus Östlund
+Linus Östlund and Niklas Wicklund
 
 ---
 
