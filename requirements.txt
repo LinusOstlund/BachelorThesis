@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+statsmodels
+csv
+json
+os
+pickle
+re
+bs4
+black
